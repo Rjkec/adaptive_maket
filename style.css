@@ -135,10 +135,11 @@ p {
 
 }
 .close_svg {
+    margin-left: -28px;
+    margin-top: -27px;
     position: absolute;
     width: 65px;
     height: 65px;
-    margin: -27px;
 }
 
 #name {
